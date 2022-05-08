@@ -1,6 +1,13 @@
 # BETA-MUSIC-BOT
 
+[BETA MUSIC BOT](https://github.com/Jeolpaul2/BETA-MUSIC-BOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
+* Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
+* Written from scratch, making it stable and less crashes.
+* Attractive thumbnails, fonts and images,  making experience more user-friendly and interactive.
+* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
+* Global, Users, Chats Top 10 played tracks stats
+* Multi-Language support
 
   <details>
 <summary><b>🔗 Session String</b></summary>
@@ -25,3 +32,9 @@
 ## Support & Updates 
 <a href="https://t.me/kochirajavsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/kochirajavuupdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
   
+## 🎗 Project assistance
+
+If you want to say **thank you** or/and support active development of YukkiMusicBot:
+
+- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Fork the Repo :)
