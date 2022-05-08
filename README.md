@@ -36,5 +36,5 @@
 
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/Jeolpaul2/BETA-MUSIC-BOT) to the project.
 - Fork the Repo :)
