@@ -22,3 +22,6 @@
   
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jeolpaul2/BETA-MUSIC-BOT)
   
+## Support & Updates 
+<a href="https://t.me/kochirajavsupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/kochirajavuupdates"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+  
