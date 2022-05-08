@@ -1,9 +1,11 @@
-Yukki Music Bot Configs
+# Yukki Music Bot
+## Configs
 Config vars are basically the variables which configure or modify bot to function, which are the basic necessities of plugins or code to work. You have to set the proper mandatory vars to make it functional and to start the basic feature of bot.
 
 Get to know about all these vars in depth from our Docs. Read Now from Here
 Mandatory Vars
 These are the minimum required vars need to setup to make Yukki Music Bot functional.
+
 API_ID : Get it from my.telegram.org
 API_HASH : Get it from my.telegram.org
 BOT_TOKEN : Get it from @Botfather in Telegram
@@ -54,12 +56,12 @@ Custom Repo Vars
 If you plan to use Yukki Music Bot with your own customized or modified code.
 UPSTREAM_REPO : Your Upstream Repo URL or Forked Repo.
 UPSTREAM_BRANCH : Default Branch of your Upstream Repo URL or Forked Repo.
-GIT_TOKEN : Your GIT TOKEN if your upstream repo is private
-GITHUB_REPO : Your Github Repo url, that will be shown on /start command
+> GIT_TOKEN : Your GIT TOKEN if your upstream repo is private
+> GITHUB_REPO : Your Github Repo url, that will be shown on /start command
 Images/Thumbnail Vars
 You can change images which are used in Yukki Music Bot.
 You can generate telegaph links from @YukkiTelegraphBot and use it here.
-START_IMG_URL : Image which comes on /start command in private messages of bot.
+> START_IMG_URL : Image which comes on /start command in private messages of bot.
 PING_IMG_URL : Image which comes on /ping command of bot.
 PLAYLIST_IMG_URL : Image which comes on /play command of bot.
 GLOBAL_IMG_URL : Image which comes on /stats command of bot.
