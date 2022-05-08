@@ -36,11 +36,11 @@
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
         "value": "",
-        "required": false
+        "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "BETA MUSIC",
         "required": true
       },
       "OWNER_ID": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/Jeolpaul2/BETA-MUSIC-BOT",
         "required": true
       },
       "UPSTREAM_BRANCH": {
