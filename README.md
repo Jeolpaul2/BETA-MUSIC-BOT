@@ -1,5 +1,7 @@
 # BETA-MUSIC-BOT
 
+<img src="https://telegra.ph//file/57452f8f1766d28baf17e.jpg" align="right" width="200" height="200"/>
+
 [BETA MUSIC BOT](https://github.com/Jeolpaul2/BETA-MUSIC-BOT) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
