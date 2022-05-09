@@ -2,10 +2,12 @@
 # Copyright 2021-2022 Jeolpaul2
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.# You may obtain a copy of the License at
-# http://www.apach2.0#
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
 #
-#All rights reserved.
+# http://www.apache.org/licenses/LICENSE-2.0
+#
+# All rights reserved.
 
 import asyncio
 import os
@@ -18,14 +20,14 @@ from pyrogram.types import CallbackQuery, InputMediaPhoto, Message
 import config
 from config import BANNED_USERS
 from strings import get_command
-from YukkiMusic import app
-from YukkiMusic.misc import db
-from YukkiMusic.utils import (Yukkibin, get_channeplayCB,
+from BetaMusic import app
+from BetaMusic.misc import db
+from BetaMusic.utils import (Yukkibin, get_channeplayCB,
                               seconds_to_min)
-from YukkiMusic.utils.database import (get_cmode, is_active_chat,
+from BetaMusic.utils.database import (get_cmode, is_active_chat,
                                        is_music_playing)
-from YukkiMusic.utils.decorators.language import language, languageCB
-from YukkiMusic.utils.inline import queue_back_markup, queue_markup
+from BetaMusic.utils.decorators.language import language, languageCB
+from BetaMusic.utils.inline import queue_back_markup, queue_markup
 
 ###Commands
 QUEUE_COMMAND = get_command("QUEUE_COMMAND")
