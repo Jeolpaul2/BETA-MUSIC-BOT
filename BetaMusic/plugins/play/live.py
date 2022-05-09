@@ -12,7 +12,7 @@
 from pyrogram import filters
 
 from config import BANNED_USERS
-from BegaMusic import YouTube, app
+from BetaMusic import YouTube, app
 from BetaMusic.utils.channelplay import get_channeplayCB
 from BetaMusic.utils.decorators.language import languageCB
 from BetaMusic.utils.stream.stream import stream
