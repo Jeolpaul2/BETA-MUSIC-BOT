@@ -1,4 +1,4 @@
-# Yukki Multi-Language Support
+# Beta Multi-Language Support
 
 - These all are the languages currently available in Yukki Music Bot. You can edit or change all strings available.
 
@@ -9,7 +9,7 @@
 | hi | Hindi  | Thanks to [TeamYukki](https://t.me/TeamYukki)
 
 
-### We need your help in translating Yukki Music Bot. How to Contribute?
+### We need your help in translating Beta Music Bot. How to Contribute?
 
 You can edit [`en.yml`](https://github.com/TeamYukki/public/blob/master/strings/langs/en.yml) present in langs folder to your own language and send us the edited file at [@YukkiSupport](https://t.me/YukkiSupport)
 
